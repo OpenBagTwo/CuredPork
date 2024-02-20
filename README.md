@@ -49,7 +49,7 @@ Find a bug? Have a suggestion or a question? Want to contribute a new feature or
 ## License
 
 All code and assets in this project are licensed by me (@OpenBagTwo) under the
-[Affero GNU Public License](https://github.com/OpenBagTwo/MarketWatch/blob/main/LICENSE)
+[GNU Affero General Public License](https://github.com/OpenBagTwo/MarketWatch/blob/main/LICENSE)
 and, broadly speaking,  may be used, modified and re-distributed freely,
 on servers, in modpacks or in any other derivative works, so long as:
 
