@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "supported_formats": {"min_inclusive": 5, "max_inclusive": 32},
+        "description": [{"text":"Cured Pork","color":"red"}]
+	}
+}
