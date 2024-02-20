@@ -33,10 +33,11 @@ on your bridge crew.
 
 ## Compatibility
 
-This datapack has been tested on versions
+This datapack has been tested on versions:
 
-- [ ] 1.20.4
-- [ ] 1.16
+- [x] 1.20.4
+- [x] 24w07a
+- [x] 1.16.2
 
 and should work on all versions in between.
 
