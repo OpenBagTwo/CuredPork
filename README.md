@@ -35,6 +35,8 @@ on your bridge crew.
 
 This datapack has been tested on versions:
 
+- [x] 1.21.5
+- [x] 1.21.4
 - [x] 1.20.4
 - [x] 24w07a
 - [x] 1.16.2
